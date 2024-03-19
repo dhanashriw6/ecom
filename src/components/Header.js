@@ -31,8 +31,10 @@ const MainHeader = styled.header`
   align-items: center;
   position: relative;
 
-  .logo {
-    height: 2rem;
+  .img {
+    height: 1rem;
+    width:1rem;
+
   }
 `;
 
